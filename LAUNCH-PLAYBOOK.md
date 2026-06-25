@@ -8,18 +8,17 @@
 
 ---
 
-## Assumptions Flagged (please correct any of these)
+## Confirmed Parameters
 
-These weren't specified, so I made the most defensible call and flagged it. Override and I'll revise.
-
-| # | Assumption | Why | If wrong, what changes |
-|---|------------|-----|------------------------|
-| A1 | **Business model = success fee / commission on closed liquidation deals** (no upfront cost to sellers) | Lowest friction for distressed sellers; standard for liquidation referral networks | If subscription or listing fee, pricing copy and objection handling change |
-| A2 | **Primary launch goal: 40 qualified seller inquiries + 15 vetted liquidator/buyer partners signed in launch month** | B2B with high deal value — quality over quantity | If your goal is GMV or revenue, swap "inquiries" for $ targets |
-| A3 | **Two-sided marketplace** — sellers (businesses liquidating) + liquidation providers (auctioneers, asset recovery firms, equipment dealers, bulk buyers). Supply side recruited before demand. | Marketplaces fail when one side shows up to silence | If supply-side is pre-existing, skip Weeks 1–3 supply recruitment |
-| A4 | **No existing waitlist / customers** beyond your personal network | "New venture" implied this | If you have a list, slot it into Week 5–6 nurture |
-| A5 | **You can publish 5x/week on LinkedIn personally** | Required for organic-led B2B launch on $1K budget | If you can't, allocate budget to ghostwriter ($400–600/mo) and reduce sponsored boost spend |
-| A6 | **Launch is "as soon as ready" — 8 weeks from kickoff** | No fixed date given | If a hard date exists (anniversary, event, conference), reverse-schedule from it |
+| # | Parameter | Value |
+|---|-----------|-------|
+| P1 | **Business model** | Success fee / commission on closed liquidation deals — no upfront cost to sellers |
+| P2 | **Primary launch goal** | **40 qualified seller inquiries + 15 vetted buyer/liquidator partners signed** in launch month |
+| P3 | **Asset scope** | **All categories** — whole-business sales, equipment, inventory, IP / customer lists, commercial real estate, scrap & recycling. Buyer-partner roster must span the full set. |
+| P4 | **Structure** | Two-sided marketplace; supply (buyer-partners) recruited before demand (Weeks 1–4) |
+| P5 | **Existing audience** | None beyond founder's personal LinkedIn network (new venture) |
+| P6 | **Founder content cadence** | 5 LinkedIn posts/week during launch ramp; 3x/week sustainable thereafter |
+| P7 | **Launch window** | 8 weeks from kickoff — pick a specific Week 7 Tuesday and reverse-schedule |
 
 ---
 
@@ -61,7 +60,15 @@ These weren't specified, so I made the most defensible call and flagged it. Over
 - [ ] **LinkedIn profile audit** — your headline, About, and Featured section must telegraph ConsignSource. Update headline to: *"Helping business owners liquidate quickly and privately | Founder, ConsignSource"*
 - [ ] **Sales Navigator trial** ($99/mo — keep through Week 7 minimum) — for prospecting referral partners and liquidator/buyer partners
 - [ ] **Tracking** — Plausible (free trial / $9/mo) or GA4 (free); UTM parameters on every LinkedIn link
-- [ ] **Buyer-side outreach list (Tier 1: warm intros only)** — 30 names from your network: regional auction houses, equipment dealers, asset recovery firms, used-equipment brokers, secondary inventory buyers, scrap/recycling brokers by category
+- [ ] **Buyer-side outreach list (Tier 1: warm intros only)** — 30 names from your network covering the full asset map:
+  - **Whole-business buyers** — micro-PE firms, search funds, strategic acquirers, business brokers with active buy-side mandates
+  - **Equipment** — regional auction houses, used-equipment dealers, industry-specific equipment brokers (CNC, restaurant, medical, construction, etc.)
+  - **Inventory** — bulk inventory liquidators, off-price retailers, jobbers, B-stock buyers by vertical
+  - **IP / customer lists** — strategic acquirers in adjacent niches, list brokers, micro-acquisition platforms
+  - **Commercial real estate** — CRE brokers, landlord tenant-rep contacts, real estate auctioneers
+  - **Scrap & recycling** — metal recyclers, e-waste processors, demolition contractors
+  - **Asset recovery generalists** — Hilco/Gordon Brothers-style firms (regional equivalents), banking workout groups
+  - Aim for 3–5 partners minimum per category by Week 6 — breadth is your differentiator
 - [ ] **Personally DM 15 of those Tier-1 buyers** with a soft ask: *"Building a private liquidation matching network — would you be open to a 15-min call about being one of our launch partners?"*
 
 **Deliverables end of Week 1:**
@@ -487,7 +494,7 @@ right buyers, auctioneers, and asset recovery partners — privately, fast,
 and on your timeline.
 
 What we did in 7 weeks:
-  → Signed 25 pre-vetted buyer-partners across equipment, inventory, IP, and real estate
+  → Signed 25+ pre-vetted buyer-partners spanning whole-business sales, equipment, inventory, IP/customer lists, commercial real estate, and scrap/recycling
   → Ran [X] beta liquidations with [Y]% average recovery improvement
   → Built a confidential, NDA-first process so your employees, customers, and landlord don't find out before you're ready
 
